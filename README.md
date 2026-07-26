@@ -17,38 +17,13 @@ I'm always looking for opportunities to learn new technologies, collaborate with
 
 ## 🛠️ Tech Stack
 
-### Languages:### Python, Java
-- C/C++
-- JavaScript
-- Bash
+**Languages:** Python, Java, C/C++, JavaScript, Bash
 
-### Machine Learning & AI
-- Scikit-learn
-- NumPy
-- Pandas
-- Matplotlib
-- Model Evaluation
-- API Integration
+**Machine Learning & AI:** Scikit-learn, NumPy, Pandas, Matplotlib, Model Evaluation, API Integration
 
-### Frameworks & Libraries
-- React
-- Spring Boot
-- Flask
-- FastAPI
-- Node.js
+**Web Dev:** HTML, CSS, JavaScript, Node.js, React, Node.js, Spring Boot
 
-### Tools
-- Git
-- GitHub
-- Linux
-- Agile / Scrum
-
-### Coursework
-- Machine Learning
-- Data Structures & Algorithms
-- Computer Architecture
-- Operating Systems
-- Computer Networks
+**Tools:** Jupyter Notebooks, Google Colab, Git, GitHub, Linux
 
 ---
 
@@ -128,7 +103,7 @@ https://www.linkedin.com/in/pratima-nallapareddy/
 
 # ✨ Fun Fact
 
-
+I was born in an elevator, so you can always find me at the top floor whenever I am coding or studying in the library!
 
 <!--
 **PratimaNallapareddy/PratimaNallapareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
