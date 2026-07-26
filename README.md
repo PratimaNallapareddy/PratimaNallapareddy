@@ -4,7 +4,7 @@
 
 🤖 I'm passionate about machine learning, artificial intelligence, software engineering, and research. I enjoy building projects that solve real-world problems, from developing machine learning models to contributing to full-stack applications and benchmarking the reasoning abilities of large language models.
 
-I'm always looking for opportunities to learn new technologies, collaborate with others, and build software that makes an impact.
+I'm always looking for opportunities to learn new technologies, collaborate with others, and build software that makes an impact. I am looking to start an internship focusing on technology where I can learn more about coding and machine learning.
 
 ---
 
@@ -90,14 +90,6 @@ https://github.com/derekflippo/mathematics-dataset-with-linear-programming
 💼 **LinkedIn**
 https://www.linkedin.com/in/pratima-nallapareddy/
 
-
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratimaNallapareddy&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratimaNallapareddy&layout=compact&theme=tokyonight)
 
 ---
 
