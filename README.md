@@ -21,7 +21,7 @@ I'm always looking for opportunities to learn new technologies, collaborate with
 
 **Machine Learning & AI:** Scikit-learn, NumPy, Pandas, Matplotlib, Model Evaluation, API Integration
 
-**Web Dev:** HTML, CSS, JavaScript, Node.js, React, Node.js, Spring Boot
+**Web Dev:** HTML, CSS, JavaScript, Node.js, React, Spring Boot
 
 **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub, Linux
 
