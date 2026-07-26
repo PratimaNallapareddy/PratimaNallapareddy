@@ -30,7 +30,7 @@ I'm always looking for opportunities to learn new technologies, collaborate with
 # 🚀 Featured Projects
 
 ## 🐄 Happy Cows Simulation Game
-**Tech Stack:** React • Java • JavaScript • Spring Boot • Git • Agile/Scrum
+React • Java • JavaScript • Spring Boot • Git • Agile/Scrum • Node.js
 
 Contributing to the full-stack redevelopment of **Happy Cows**, an educational simulation game used in UC Santa Barbara courses to teach the **Tragedy of the Commons**.
 
