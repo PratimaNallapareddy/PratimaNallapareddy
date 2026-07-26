@@ -17,9 +17,7 @@ I'm always looking for opportunities to learn new technologies, collaborate with
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- Java
+### Languages:### Python, Java
 - C/C++
 - JavaScript
 - Bash
@@ -78,14 +76,8 @@ https://github.com/ucsb-cs156/proj-happycows
 Developed an end-to-end machine learning pipeline that predicts whether New York City Airbnb listings belong to high- or low-priced categories.
 
 Highlights:
-- Feature engineering
 - Exploratory Data Analysis (EDA)
-- Data preprocessing
-- Hyperparameter tuning
-- Decision Trees
-- Logistic Regression
-- K-Nearest Neighbors
-- Neural Networks
+- Data preprocessing, Hyperparameter tuning, Decision Trees, Logistic Regression, K-Nearest Neighbors, Neural Networks
 - Model evaluation using Accuracy, Precision, Recall, F1 Score, and ROC-AUC
 
 ---
@@ -136,7 +128,7 @@ https://www.linkedin.com/in/pratima-nallapareddy/
 
 # ✨ Fun Fact
 
-I was born in an elevator!
+
 
 <!--
 **PratimaNallapareddy/PratimaNallapareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
