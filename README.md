@@ -27,6 +27,16 @@ I'm always looking for opportunities to learn new technologies, collaborate with
 
 ---
 
+
+# 📫 Connect With Me
+
+📧 **Email:** pnallapa@gmail.com
+
+---
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/pratima-nallapareddy/
+
 # 🚀 Featured Projects
 
 ## 🐄 Happy Cows Simulation Game
@@ -81,14 +91,7 @@ https://github.com/derekflippo/mathematics-dataset-with-linear-programming
 
 **Machine Learning Foundations Certificate (2026)**
 
----
 
-# 📫 Connect With Me
-
-📧 **Email:** pnallapa@gmail.com
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/pratima-nallapareddy/
 
 
 ---
