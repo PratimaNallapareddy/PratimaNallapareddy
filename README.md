@@ -34,7 +34,7 @@ I'm always looking for opportunities to learn new technologies, collaborate with
 
 ---
 
-💼 **LinkedIn**
+💼 **LinkedIn:**
 https://www.linkedin.com/in/pratima-nallapareddy/
 
 # 🚀 Featured Projects
