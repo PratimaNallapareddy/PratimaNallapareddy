@@ -32,10 +32,10 @@ I'm always looking for opportunities to learn new technologies, collaborate with
 
 📧 **Email:** pnallapa@gmail.com
 
----
-
 💼 **LinkedIn:**
 https://www.linkedin.com/in/pratima-nallapareddy/
+
+---
 
 # 🚀 Featured Projects
 
