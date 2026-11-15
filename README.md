@@ -107,12 +107,6 @@ Contributing to the full-stack redevelopment of **Happy Cows**, an educational s
 
 ---
 
-## 📊 GitHub Activity & Technologies
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratimaNallapareddy&layout=compact&langs_count=8)
-
----
-
 ## 📜 Certifications
 
 🎓 **Machine Learning Foundations Certificate (2026)** — Cornell University
