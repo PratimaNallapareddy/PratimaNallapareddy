@@ -12,6 +12,7 @@ I'm always looking for opportunities to learn new technologies, collaborate with
 
 - 🔬 Conducting AI research through UCSB's Early Research Scholars Program (ERSP)
 - 🤖 Exploring machine learning as a Break Through Tech AI Fellow
+- KPMG AI Research Intelligence Agent: https://github.com/Break-Through-Tech/KPMG-1D-ai-research-intelligence-agent-for-business-insight-translation
 
 ---
 
